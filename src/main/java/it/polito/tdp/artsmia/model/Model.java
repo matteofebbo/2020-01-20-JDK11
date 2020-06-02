@@ -80,7 +80,7 @@ public class Model {
 		}
 		return result;
 	}
-	
+	//
 	private boolean contiene(String id) {
 		
 		int ID=Integer.parseInt(id);
